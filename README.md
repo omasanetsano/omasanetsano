@@ -1,4 +1,5 @@
-<h1 align="left">Hi, I'm Omasan Etsano 👋🏾</h1>
+<img width="100%" alt="Hi, I'm Omasan Etsano" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE5B3D,100:0C0C0C&height=180&section=header&text=Hi,%20I'm%20Omasan%20Etsano&fontSize=46&fontColor=ffffff&fontAlignY=38" />
+
 <h3 align="left">Full-Stack Software Engineer • AI Evaluation • MS Data Science & AI</h3>
 
 <div align="left">
@@ -39,6 +40,12 @@ I build and run **[BookDex](https://bookdexhub.com)**, a booking and invoicing p
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#### **AI & Evaluation**
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge)
+![Agent Benchmarks](https://img.shields.io/badge/Agent_Benchmarks-D00000?style=for-the-badge)
+![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-FF6F00?style=for-the-badge)
+
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -64,6 +71,7 @@ I build and run **[BookDex](https://bookdexhub.com)**, a booking and invoicing p
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 
 ---
 
@@ -75,11 +83,15 @@ Multi-tenant booking, deposits and invoicing for service businesses in Nigeria. 
 - **Engineering**: Row Level Security between businesses, signed webhook events, CI with tests and secret scanning
 - **[Live Site →](https://bookdexhub.com)**
 
+<a href="https://bookdexhub.com"><img width="720" alt="BookDex" src="https://raw.githubusercontent.com/omasanetsano/Portfolio/main/public/projects/bookdex-site.jpg" /></a>
+
 #### 🗳️ **IDA Election Portal** (Team Build)
 Secure electronic voting for the Igarra Development Association. I led the pre-launch hardening and the interface.
 - **Tech**: React, TypeScript, Node.js, PostgreSQL, Prisma, Supabase
 - **Engineering**: One voter, one link and one ballot enforced in the database, integration tests, WhatsApp delivery of voting links
 - **[Live Site →](https://ida-elections.vercel.app)**
+
+<a href="https://ida-elections.vercel.app"><img width="720" alt="IDA Election Portal" src="https://raw.githubusercontent.com/omasanetsano/Portfolio/main/public/projects/ida-site.jpg" /></a>
 
 #### 🤖 **ShefGuide** (Collaborative MSc Project)
 AI product built as a team for an MSc dissertation.
@@ -108,6 +120,8 @@ _See every case study on my [portfolio](https://omasan-etsano.vercel.app/works).
 <div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omasanetsano&theme=tokyonight&hide_border=true&border_radius=8&card_width=500)
+
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/omasanetsano?cardType=level-alternate&theme=github-dark&preferLogin=false)
 
 </div>
 
